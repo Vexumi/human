@@ -1,1 +1,2 @@
-Ответ: они ничем не отличаются
+Ответ:  1) они ничем не отличаются
+        2) 3 коммита: "README added", "+ hometask.txt", "Merge branch 'buttons' into demo"
